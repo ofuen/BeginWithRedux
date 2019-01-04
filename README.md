@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+
+# Begin With Redux ⚛️
+Getting Started with Redux
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -64,10 +67,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ad
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-### `npm run build` fails to minify
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-=======
-# Begin With Redux ⚛️
-Getting Started with Redux
->>>>>>> 5973171069e3746268c24990f975655a100a3e52
+
+
